@@ -1,3 +1,7 @@
+#
+# you will need to have the mpicc from you Open MPI build to be in your path
+# to use this script.
+#
 export PYTHONPATH=$PYTHONPATH:$PWD/mpi4py/
 
 #
